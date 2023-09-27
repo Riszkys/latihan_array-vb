@@ -1,0 +1,17 @@
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\bin\Debug\net6.0-windows\latihan_array.exe
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\bin\Debug\net6.0-windows\latihan_array.deps.json
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\bin\Debug\net6.0-windows\latihan_array.runtimeconfig.json
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\bin\Debug\net6.0-windows\latihan_array.dll
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\bin\Debug\net6.0-windows\latihan_array.pdb
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.vbproj.AssemblyReference.cache
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.Form1.resources
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.AssemblyInfo.vb
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.dll
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\refint\latihan_array.dll
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.pdb
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\latihan_array.genruntimeconfig.cache
+D:\Kuliah\Semester 5\Asdos\File Program\latihan_array\obj\Debug\net6.0-windows\ref\latihan_array.dll
